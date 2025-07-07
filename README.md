@@ -4,8 +4,6 @@
 
 🔬 Durante mi formación, tuve la oportunidad de colaborar con el experimento **NA64 en el CERN**, donde trabajé en la simulación y análisis de calorímetros electromagnéticos utilizando herramientas como **FLUKA**, **Python**, **Fortran** y **ROOT**. Además, formé parte del equipo del Instituto Milenio **SAPHIR**, contribuyendo a publicaciones científicas y guiando a estudiantes en proyectos de tesis en física subatómica.
 
-💡 Actualmente, estoy aplicando estas capacidades en la industria tecnológica, desarrollando soluciones como un sistema de detección de fraude bancario utilizando modelos de clasificación, y explorando aplicaciones de *machine learning* en datos del **LHC** (identificación del bosón de Higgs) y en problemas de salud pública (riesgo de obesidad).
-
 ⚙️ Me especializo en:
 - **Python** para ciencia de datos y machine learning
 - Modelos supervisados como Random Forest, XGBoost y redes neuronales
