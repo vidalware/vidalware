@@ -2,7 +2,7 @@
 
 👋 ¡Hola! Soy **Marcelo Vidal Bravo**, ingeniero en física con una fuerte orientación hacia el **análisis de datos**, la **ciencia aplicada** y el **machine learning**. Mi trayectoria combina investigación científica de alto nivel y desarrollo de soluciones tecnológicas con impacto real.
 
-🔬 Durante mi formación, tuve la oportunidad de colaborar con el experimento **NA64 en el CERN**, donde trabajé en la simulación y análisis de calorímetros electromagnéticos utilizando herramientas como **FLUKA**, **Python**, **Fortran** y **ROOT**. Además, formé parte del equipo del Instituto Milenio **SAPHIR**, contribuyendo a publicaciones científicas y guiando a estudiantes en proyectos de tesis en física subatómica.
+🔬 Durante mi formación, tuve la oportunidad de colaborar con el experimento **NA64 en el CERN**, donde trabajé en la simulación y análisis de calorímetros electromagnéticos utilizando herramientas como **FLUKA**, **Python**, **Fortran** y **ROOT**. Además, formé parte del equipo del Instituto Milenio **SAPHIR**, contribuyendo a publicaciones científicas y aplicando modelos de ciencia de datos para fisica de particulas.
 
 ⚙️ Me especializo en:
 - **Python** para ciencia de datos y machine learning
