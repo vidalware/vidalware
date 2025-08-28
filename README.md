@@ -28,7 +28,7 @@
 - Desarrollo de pipelines reproducibles de datos  
 - Visualización efectiva para la toma de decisiones  
 
-🌱 Apasionado por el aprendizaje continuo y los proyectos que integran ciencia, tecnología y colaboración multidisciplinaria.
+
 
 ---
 
