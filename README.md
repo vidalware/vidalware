@@ -2,13 +2,31 @@
 
 👋 ¡Hola! Soy **Marcelo Vidal Bravo**, ingeniero en física con una fuerte orientación hacia el **análisis de datos**, la **ciencia aplicada** y el **machine learning**. Mi trayectoria combina investigación científica de alto nivel y desarrollo de soluciones tecnológicas con impacto real.
 
-🔬 Durante mi formación, tuve la oportunidad de colaborar con el experimento **NA64 en el CERN**, donde trabajé en la simulación y análisis de calorímetros electromagnéticos utilizando herramientas como **FLUKA**, **Python**, **Fortran** y **ROOT**. Además, formé parte del equipo del Instituto Milenio **SAPHIR**, contribuyendo a publicaciones científicas y aplicando modelos de ciencia de datos para fisica de particulas.
+---
 
-⚙️ Me especializo en:
-- **Python** para ciencia de datos y machine learning
-- Modelos supervisados como Random Forest, XGBoost y redes neuronales
-- Visualización de datos y pipelines reproducibles
-- Ciencia aplicada en contextos científicos e industriales
+## 🔬 Experiencia Científica y Profesional
+- Colaboré con el experimento **NA64 en el CERN**, trabajando en simulación y análisis de **calorímetros electromagnéticos** con **FLUKA**, **Python**, **Fortran** y **ROOT**.  
+- Formé parte del Instituto Milenio **SAPHIR**, contribuyendo a publicaciones científicas y aplicando modelos de ciencia de datos en física de partículas.  
+- Experiencia en proyectos que integran investigación científica, ingeniería y analítica avanzada.
+
+---
+
+## ⚙️ Habilidades Técnicas
+- **Lenguajes**: Python, C++, Fortran, SQL  
+- **Machine Learning**: Random Forest, XGBoost, Redes Neuronales  
+- **Data Science**: pandas, NumPy, scikit-learn, Jupyter  
+- **Visualización**: matplotlib, seaborn, Power BI, Tableau  
+- **Simulación**: FLUKA, ROOT  
+- **Herramientas**: Git/GitHub, Linux, Docker  
+
+---
+
+## 📊 Intereses
+🌱 Apasionado por el **aprendizaje continuo** y por proyectos que integran **ciencia, tecnología y colaboración multidisciplinaria**.  
+🚀 Mis áreas de interés actuales incluyen:
+- Inteligencia Artificial aplicada a la industria y la investigación científica  
+- Desarrollo de pipelines reproducibles de datos  
+- Visualización efectiva para la toma de decisiones  
 
 🌱 Apasionado por el aprendizaje continuo y los proyectos que integran ciencia, tecnología y colaboración multidisciplinaria.
 
